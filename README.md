@@ -49,5 +49,3 @@ The dataset is sourced from [Kaggle: Diabetes Prediction Dataset](https://www.ka
 ### 4. Multivariate / Advanced Analysis
 - Created a **Risk Score** based on age, BMI, HbA1c, blood glucose, and heart disease
 
-
-
